@@ -1,6 +1,21 @@
 ># Olá, eu sou o Erick Geovane! 👋
 ### Estudante de ADS | Buscando Estágio em Desenvolvimento Backend
 <img width="200" height="300" alt="ChatGPT Image 30 de nov  de 2025, 09_32_21" src="https://github.com/user-attachments/assets/946ca684-f4b7-4f24-bb24-f941306a0454" />
+<table style="width: 100%; border: none;">
+  <tr>
+    <td style="width: 30%; text-align: center; border: none; padding-right: 20px;">
+      <img width="200" height="300" alt="ChatGPT Image 30 de nov  de 2025, 09_32_21" src="https://github.com/user-attachments/assets/946ca684-f4b7-4f24-bb24-f941306a0454" />
+    </td>
+    <td style="width: 70%; vertical-align: top; border: none;">
+      <p>
+        Sou um desenvolvedor motivado por construir soluções de **Backend** robustas, escaláveis e com **código limpo**. Meu foco é o ecossistema **Java** e **Spring Boot**, aplicando metodologias ágeis como **Scrum** em projetos que vão desde otimização de performance até o uso de bancos de dados NoSQL.
+      </p>
+      <p>
+        Buscando ativamente minha primeira oportunidade de Estágio para aplicar e expandir esses conhecimentos.
+      </p>
+    </td>
+  </tr>
+</table>
 
 Sou um desenvolvedor motivado por construir soluções de **Backend** robustas, escaláveis e com **código limpo**. Meu foco é o ecossistema **Java** e **Spring Boot**, aplicando metodologias ágeis como **Scrum** em projetos que vão desde otimização de performance até o uso de bancos de dados NoSQL.
 
