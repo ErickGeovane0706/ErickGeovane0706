@@ -53,7 +53,7 @@ Meus projetos demonstram a capacidade de aplicar diferentes tecnologias de Backe
 ### 💡 Arquitetura e Boas Práticas
 Meus projetos utilizam princípios de **Arquitetura em Camadas** e **SOLID**, garantindo sistemas manuteníveis e escaláveis.
 
-<img width="1024" height="1024" alt="Gemini_Generated_Image_e0cly4e0cly4e0cl" src="https://github.com/user-attachments/assets/6c244c7a-d181-4a8c-9432-066789fbaec0" />
+<img width="300" height="200" alt="Gemini_Generated_Image_e0cly4e0cly4e0cl" src="https://github.com/user-attachments/assets/6c244c7a-d181-4a8c-9432-066789fbaec0" />
 
 
 ---
