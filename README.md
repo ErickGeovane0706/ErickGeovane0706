@@ -63,7 +63,7 @@ Meus projetos utilizam princípios de **Arquitetura em Camadas** e **SOLID**, ga
 Estou pronto para contribuir com um time de desenvolvimento e crescer rapidamente. Vamos nos conectar!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-geovane-597732297/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erickgeovane2002@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](erickgeovane2002@gmail.com)
 
 ---
 <p align="center">
