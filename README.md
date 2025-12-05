@@ -38,6 +38,8 @@ Meus projetos demonstram a capacidade de aplicar diferentes tecnologias de Backe
 * **Skills:** JPA, Spring Boot, PostgreSQL, JWT.
 * [Link para o Repositório]
 
+### e + :)
+
 ### 💡 Arquitetura e Boas Práticas
 Meus projetos utilizam princípios de **Arquitetura em Camadas** e **SOLID**, garantindo sistemas manuteníveis e escaláveis.
 
@@ -47,11 +49,11 @@ Meus projetos utilizam princípios de **Arquitetura em Camadas** e **SOLID**, ga
 
 ---
 
-## 🔗 Conecte-se Comigo!
+## 🔗 Trocar ideis Comigo!
 
 Estou pronto para contribuir com um time de desenvolvimento e crescer rapidamente. Vamos nos conectar!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([SEU_LINKEDIN])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/erick-geovane-597732297/)])
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erickgeovane2002@gmail.com)
 
 ---
