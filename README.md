@@ -7,7 +7,7 @@
     </td>
     <td style="width: 70%; vertical-align: top; border: none;">
       <p>
-        Sou um desenvolvedor motivado por construir soluções de **Backend** robustas, escaláveis e com **código limpo**. Meu foco é o ecossistema **Java** e **Spring Boot**, aplicando metodologias ágeis como **Scrum** em projetos que vão desde otimização de performance até o uso de bancos de dados NoSQL.
+        Sou um desenvolvedor motivado por construir soluções de <strong>Backend<strong> robustas, escaláveis e com <strong>código limpo<strong>. Meu foco é o ecossistema <strong>Java<strong> e <strong>Spring Boot<strong>, aplicando metodologias ágeis como <strong>Scrum<strong> em projetos que vão desde otimização de performance até o uso de bancos de dados NoSQL.
       </p>
       <p>
         Buscando ativamente minha primeira oportunidade de Estágio para aplicar e expandir esses conhecimentos.
