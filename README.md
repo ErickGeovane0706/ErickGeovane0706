@@ -3,7 +3,7 @@
 <table style="width: 100%; border: none;">
   <tr>
     <td style="width: 30%; text-align: center; border: none; padding-right: 20px;">
-      <img width="200" height="300" alt="ChatGPT Image 30 de nov  de 2025, 09_32_21" src="https://github.com/user-attachments/assets/946ca684-f4b7-4f24-bb24-f941306a0454" />
+      <img width="400" height="600" alt="ChatGPT Image 30 de nov  de 2025, 09_32_21" src="https://github.com/user-attachments/assets/946ca684-f4b7-4f24-bb24-f941306a0454" />
     </td>
     <td style="width: 70%; vertical-align: top; border: none;">
       <p>
@@ -15,7 +15,6 @@
     </td>
   </tr>
 </table>
----
 
 ## 🛠️ Stack Principal & Ferramentas
 
