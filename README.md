@@ -22,11 +22,15 @@ Desenvolvo soluções backend com Java e Spring Boot, aplicando Clean Code, SOLI
 
 ## Projetos em Destaque
 
-### Agenda de Pagamentos
+### Agenda de Pagamentos — [Acessar sistema](https://app-agendapagamentos.up.railway.app)
+*(Sistema em produção atendendo cliente real — login restrito por confidencialidade de dados financeiros)*
+
 Sistema multi-tenant de gestão financeira (Boletos, Pix, Cheques) para empresas com múltiplas lojas. Inclui automação de cobrança via WhatsApp com regra de degradação de frequência por atraso, conformidade LGPD, relatórios em Excel e autenticação JWT com refresh token e blacklist.
 `Java 21` `Spring Boot 3` `React + TypeScript` `PostgreSQL`
 
 ### Syra Estética — [syra-frontend.vercel.app](https://syra-frontend.vercel.app)
+*(Repositório privado por confidencialidade de dados da cliente — sistema acessível publicamente)*
+
 Sistema real em produção para cliente de estética: agendamento inteligente, autenticação Google OAuth2, painel administrativo completo e loja online integrada ao WhatsApp. Deploy em Vercel + Render + Neon.
 `Java 21` `Spring Boot 3` `OAuth2` `React`
 
