@@ -22,7 +22,7 @@ Desenvolvo soluções backend com Java e Spring Boot, aplicando Clean Code, SOLI
 
 ## Projetos em Destaque
 
-### Agenda de Pagamentos — [Acessar sistema](https://app-agendapagamentos.up.railway.app)
+### Agenda de Pagamentos — [Acessar sistema](https://diadepagar.com.br/comecar)
 *(Sistema em produção atendendo cliente real — login restrito por confidencialidade de dados financeiros)*
 
 Sistema multi-tenant de gestão financeira (Boletos, Pix, Cheques) para empresas com múltiplas lojas. Inclui automação de cobrança via WhatsApp com regra de degradação de frequência por atraso, conformidade LGPD, relatórios em Excel e autenticação JWT com refresh token e blacklist.
