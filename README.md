@@ -35,6 +35,8 @@
 ## Projetos
 
 ### 💳 [Dia de Pagar](https://www.diadepagar.com.br) — SaaS multi-tenant de contas a pagar
+### 🕸️ [Repositório](https://github.com/ErickGeovane0706/agenda-pagamentos) — Dia de Pagar
+
 
 <sub>`produto próprio` · `no ar e em uso por uma rede de lojas` · `código privado`</sub>
 
