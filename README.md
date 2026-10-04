@@ -35,10 +35,8 @@
 ## Projetos
 
 ### 💳 [Dia de Pagar](https://www.diadepagar.com.br) — SaaS multi-tenant de contas a pagar
-### 🕸️ [Repositório](https://github.com/ErickGeovane0706/agenda-pagamentos) — Dia de Pagar
 
-
-<sub>`produto próprio` · `no ar e em uso por uma rede de lojas` · `código privado`</sub>
+<sub>`produto próprio` · `no ar e em uso por uma rede de lojas` · [`código no GitHub`](https://github.com/ErickGeovane0706/agenda-pagamentos)</sub>
 
 Uma rede com várias lojas controlava boletos, PIX e cheques em planilha. Vencimento passava
 batido, e ninguém sabia o total a pagar da semana sem somar à mão.
@@ -55,7 +53,7 @@ batido, e ninguém sabia o total a pagar da semana sem somar à mão.
 - **327 métodos de teste em 40 classes** cobrindo isolamento multi-tenant, autenticação, upload
   e o agente de WhatsApp.
 
-`Java 21` `Spring Boot 3` `Spring Security` `PostgreSQL` `Flyway` `React + TypeScript` `Docker`
+`Java 21` `Spring Boot 3` `Spring Security` `PostgreSQL` `Flyway` `React` `Docker`
 
 <br>
 
@@ -113,7 +111,7 @@ publicado em cloud.
 | **Backend** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white) ![Hibernate](https://img.shields.io/badge/JPA_/_Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=flat-square&logo=auth0&logoColor=white) ![Swagger](https://img.shields.io/badge/OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black) |
 | **Dados** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white) ![FalkorDB](https://img.shields.io/badge/FalkorDB-FF6B6B?style=flat-square) |
 | **Testes** | ![JUnit5](https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white) ![Mockito](https://img.shields.io/badge/Mockito-78A641?style=flat-square) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) <sub>básico</sub> |
 | **Infra** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Neon](https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=black) |
 | **Práticas** | `Clean Code` `SOLID` `Arquitetura em camadas` `Multi-tenant` `Modelagem de dados` `LGPD` `Scrum` |
 
